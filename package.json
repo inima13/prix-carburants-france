@@ -1,0 +1,34 @@
+{
+  "name": "prix-carburants-france",
+  "version": "1.0.0",
+  "description": "API wrapper pour les prix des carburants en France — données temps réel du gouvernement (prix-carburants.gouv.fr)",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "carburant",
+    "essence",
+    "gazole",
+    "diesel",
+    "prix",
+    "station-service",
+    "france",
+    "open-data",
+    "api",
+    "prix-carburants",
+    "sp95",
+    "sp98",
+    "e10",
+    "e85",
+    "gplc"
+  ],
+  "author": "Anthony Cardia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonycardia/prix-carburants-france"
+  },
+  "homepage": "https://palac.fr",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
