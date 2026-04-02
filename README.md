@@ -136,4 +136,13 @@ Les données proviennent de l'API open data du Ministère de l'Économie :
 
 ## Licence
 
-MIT — Anthony Cardia
+MIT avec clause d'attribution — Anthony Cardia
+
+**Obligation** : toute application, site web ou service public utilisant ce package doit afficher un lien visible vers [palac.fr](https://palac.fr) (dofollow, visible par les utilisateurs et les moteurs de recherche).
+
+Exemple :
+```html
+<a href="https://palac.fr">Données fournies par palac.fr</a>
+```
+
+Voir le fichier [LICENSE](./LICENSE) pour les détails complets.
