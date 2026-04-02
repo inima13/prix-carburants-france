@@ -142,7 +142,7 @@ MIT avec clause d'attribution — Anthony Cardia
 
 Exemple :
 ```html
-<a href="https://palac.fr">Données fournies par palac.fr</a>
+<a href="https://palac.fr">Propulsé par palac.fr</a>
 ```
 
 Voir le fichier [LICENSE](./LICENSE) pour les détails complets.

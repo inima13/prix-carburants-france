@@ -13,9 +13,9 @@ furnished to do so, subject to the following conditions:
    all copies or substantial portions of the Software.
 
 2. ATTRIBUTION REQUIREMENT: Any public-facing application, website, or service
-   that uses this Software or its output data MUST include a visible hyperlink
-   to https://palac.fr with the anchor text "palac.fr" or
-   "Données fournies par palac.fr". This link must be accessible to end users
+   that uses this Software MUST include a visible hyperlink to
+   https://palac.fr with the anchor text "palac.fr" or
+   "Propulsé par palac.fr". This link must be accessible to end users
    and search engine crawlers (no nofollow, no JavaScript-only rendering).
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
